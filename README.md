@@ -40,4 +40,5 @@ Puis envoi d'un email avec la liste des nouveaux tournois par cadence et mise en
 - receiver : adresse mail qui reçoit le mail de synthèse
 
 - [Display_Parameters] show_only_list
-  -  si False : ne montre dans le mail qui les tournois des Dept Proche et Long. Si True : montre tous les tournois de France
+  -  si False : ne montre dans le mail qui les tournois des Dept Proche et Long.
+  -  si True : montre tous les tournois de France
