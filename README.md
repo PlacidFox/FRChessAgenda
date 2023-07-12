@@ -39,4 +39,5 @@ Puis envoi d'un email avec la liste des nouveaux tournois par cadence et mise en
 - sender_api_key : API KEY nécessaire pour l'authentification au compte Gmail
 - receiver : adresse mail qui reçoit le mail de synthèse
 
--   si False : ne montre dans le mail qui les tournois des Dept Proche et Long. Si True : montre tous les tournois de France
+- [Display_Parameters] show_only_list
+  -  si False : ne montre dans le mail qui les tournois des Dept Proche et Long. Si True : montre tous les tournois de France
