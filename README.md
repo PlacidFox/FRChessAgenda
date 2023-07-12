@@ -25,6 +25,15 @@ Puis envoi d'un email avec la liste des nouveaux tournois par cadence et mise en
 #### Tournois en cadence 1H Ko non activée dans le script mais possible en enlevant la mise en commentaires du paramètres HKO dans le fichier constantes.py dans le répertoire /constantes
 
 
+## Resultat par mail
+
+### Liste des nouveaux tournois depuis la dernière execution du script
+puis
+### Liste de tous les tournois affichés sur le site de la FFE
+
+#### possible de définir si affichage uniquement des tournois de deux listes de département (dept_proche et dept_long) ou alors de tous les tournois de France
+
+
 ## Pre-requis
 
 - Google Chrome ou Chromium installé
